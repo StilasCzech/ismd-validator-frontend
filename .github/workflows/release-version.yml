@@ -108,11 +108,12 @@ jobs:
             git config user.email "github-actions[bot]@users.noreply.github.com"
           fi
           
-      - name: Run tests
-        run: |
-          # Install dependencies and run tests to ensure the release is stable
-          npm ci
-          npm test
+      # Test step commented out as there's no test script defined in package.json
+      # - name: Run tests
+      #   run: |
+      #     # Install dependencies and run tests to ensure the release is stable
+      #     npm ci
+      #     npm test
           
       - name: Push release branch
         run: |

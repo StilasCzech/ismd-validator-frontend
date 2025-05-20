@@ -11,5 +11,7 @@ permissions:
   pull-requests: write
 
 jobs:
+  # Tests are currently disabled in the reusable-test.yml workflow
+  # This workflow will only verify that the app can build successfully
   run-tests:
     uses: ./.github/workflows/reusable-test.yml
