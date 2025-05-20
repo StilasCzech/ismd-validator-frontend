@@ -1,0 +1,39 @@
+@import './govDesignSystem.css';
+@import '../fonts/roboto.css';
+
+@import 'tailwindcss';
+
+@theme {
+  --color-blue: #1d3c5d;
+  --color-blue-subtle: #e5eef9;
+  --color-secondary: #d1d1d1;
+  --color-dark-primary: #262626;
+  --color-link: #c5dbf2;
+  --color-blue-primary: #1e5086;
+  --color-footer-separator: #2362a2;
+  --color-page-background: #f6f6f6;
+  --breakpoint-desktop: 1200px;
+  --spacing-desktop: 1200px;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  background: var(--color-page-background);
+  font-family: Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+}

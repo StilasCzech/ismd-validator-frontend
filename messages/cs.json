@@ -1,0 +1,93 @@
+{
+  "Header": {
+    "LogoTitle": "Informační systém pro modelování dat",
+    "Nav": {
+      "Link1": "Nástroj na tvorbu slovníků",
+      "Link2": "Dokumentace API",
+      "Dropdown": {
+        "Label": "Zpětná vazba",
+        "Link1": "Nahlásit chybu",
+        "Link2": "Navrhnout vylepšení"
+      }
+    },
+    "MenuButtonAria": "Otevřít navigaci"
+  },
+  "Footer": {
+    "LinkColumn": {
+      "Title": "Odkazy",
+      "Link1": "Portál o datech",
+      "Link2": "Popis dat na portálu o datech",
+      "Link3": "Repozitář na GitHubu"
+    },
+    "ContactColumn": {
+      "Title": "Kontakt",
+      "Email": "data@dia.gov.cz"
+    },
+    "ThanksSection": {
+      "Title": "Poděkování",
+      "Text": "Informační systém pro modelování dat vznikl v rámci projektu Zajištění podmínek pro kvalitní správu datového fondu a zajištění řízeného přístupu k datům, reg.č.: CZ.31.1.01/MV/23_62/0000062."
+    },
+    "BottomLinksSection": {
+      "Link1": "Link",
+      "Link2": "Link",
+      "Link3": "Link",
+      "Link4": "Link"
+    },
+    "FooterCopySection": {
+      "Copyright": "2025 © Digitální a informační agentura • Informace jsou poskytovány v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím.",
+      "Version": "Verze 2.0.2105.9856",
+      "DesignSystem": "Využit Design system 4.0"
+    },
+    "BackToTopAria": "Na začátek stránky"
+  },
+  "Home": {
+    "Banner": {
+      "Headline": "Kontrola a převod slovníků",
+      "Description": "Kontrola slovníků a jejich převod do formátu dle Otevřené formální normy.",
+      "Button": "Jak to funguje?"
+    },
+    "Message": {
+      "Content": "Nevíte, co jsou slovníky? Navštivte stránku",
+      "Link": "Popis dat.",
+      "CloseButtonAria": "Zavřít zprávu"
+    },
+    "InfoSection": {
+      "Headline": "Mohlo by se vám hodit",
+      "Item1": {
+        "Title": "Popis dat",
+        "Description": "Struktura a význam dat v informačních systémech dle metodických doporučení"
+      },
+      "Item2": {
+        "Title": "Informační systém pro modelování dat",
+        "Description": "Zajišťuje lepší propojení dat a systémů, zvyšuje kvalitu služeb"
+      },
+      "Item3": {
+        "Title": "Otevřené formální normy",
+        "Description": "Technická doporučení zaměřená na vybrané datové sady"
+      },
+      "Item4": {
+        "Title": "Portál o datech",
+        "Description": "Poskytuje strukturované a standardizované informace o datech "
+      }
+    },
+    "FaqSection": {
+      "Headline": "Časté dotazy",
+      "Item1": {
+        "Question": "Co jsou slovníky a jaké je jejich využití?",
+        "Answer": "Více informací najdete na stránce"
+      },
+      "Item2": {
+        "Question": "Co je to Otevřená formální norma?",
+        "Answer": "Více informací najdete na stránce"
+      },
+      "Item3": {
+        "Question": "Kdo je povinnen slovníky tvořit?",
+        "Answer": "Více informací najdete na stránce"
+      },
+      "Item4": {
+        "Question": "Co když slovník neprojde kontrolou?",
+        "Answer": "Více informací najdete na stránce"
+      }
+    }
+  }
+}
